@@ -6,7 +6,7 @@ This version is intentionally different from the first portfolio: it uses a **3D
 
 ## 🔗 Live Demo
 
-👉 [Click here to visit the website](https://github.io/ixmartfarhan/ixmartfarhan.io/)
+👉 [Click here to visit the website](https://github.com/ixmartfarhan/ixmartfarhan.io/)
 
 ---
 
