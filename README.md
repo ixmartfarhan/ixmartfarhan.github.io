@@ -2,6 +2,15 @@
 
 This version is intentionally different from the first portfolio: it uses a **3D/WebGL engineering-lab concept** rather than a conventional glassmorphism portfolio.
 
+---
+
+## 🔗 Live Demo
+
+👉 [Click here to visit the website](https://ixmartfarhan/ixmartfarhan.github.io/)
+
+---
+
+
 ## Stack
 
 - React + Vite
